@@ -17,8 +17,8 @@ RewriteEngine On
 #  potentially match a URL, but you only want one of them to be applied.
 
 # General rewrite
-RewriteRule ^websiteOne$ websiteOne/index.php [L]
-RewriteRule ^websiteTwo$ websiteTwo/index.php [L]
+RewriteRule ^websiteOne$ projects/websiteOne/index.php [L]
+RewriteRule ^websiteTwo$ projects/websiteTwo/index.php [L]
 
 
 
