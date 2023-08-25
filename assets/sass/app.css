@@ -1,1 +1,8 @@
-/*# sourceMappingURL=app.css.map */
+body {
+  background: orangered;
+  color: white;
+}
+body a {
+  text-decoration: none;
+  text-transform: capitalize;
+}/*# sourceMappingURL=app.css.map */
